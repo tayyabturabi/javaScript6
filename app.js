@@ -75,10 +75,50 @@
 
 
 //Q # 8
-var message = ("Ali and Sami are best friends. They play cricket and football together");
-var str2 = "&"
+// var message = ("Ali and Sami are best friends. They play cricket and football together.");
+// var rep = message.replace(/and/g,"&");
+// document.write(rep)
+
+//Q # 9
+
+// var str = "472"
+// var typeCheck = typeof(str)
+// var num = Number(str)
+// var typeCheck1 = typeof(num)
+// document.write(`
+// <h1>Value = ${str}</h1>
+// <h1>Type = ${typeCheck} </h1>
 
 
+// <h1>Value = ${num}</h1>
+// <h1>Type = ${typeCheck1} </h1>
+// `)
+
+//Q # 10
+
+// var userInp = prompt("","peanuts")
+// var upperCase = userInp.toUpperCase()
+// document.write(`
+// <h1> User Inpute = ${userInp}</h1>
+// <h1> Upper Case = ${upperCase}</h1>
+// `)
+
+//Q # 10
+
+// var userInp = prompt("","javascript");
+// var titleCase1 = userInp.slice(0,1).toUpperCase();
+// var titleCase2 = userInp.slice(1).toLowerCase();
+// var titleCase = titleCase1.concat(titleCase2);
+
+// document.write(`
+// <h1> User Input = ${userInp}</h1>
+// <h1> Upper Case = ${titleCase}</h1>
+// `)
+
+//Q # 11
+
+ var num = 35.36;
+ var num1 = num.
 
 
 
