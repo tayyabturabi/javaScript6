@@ -94,7 +94,7 @@
 // <h1>Type = ${typeCheck1} </h1>
 // `)
 
-//Q # 10
+// //Q # 10
 
 // var userInp = prompt("","peanuts")
 // var upperCase = userInp.toUpperCase()
@@ -103,7 +103,7 @@
 // <h1> Upper Case = ${upperCase}</h1>
 // `)
 
-//Q # 10
+//Q # 11
 
 // var userInp = prompt("","javascript");
 // var titleCase1 = userInp.slice(0,1).toUpperCase();
@@ -115,14 +115,47 @@
 // <h1> Upper Case = ${titleCase}</h1>
 // `)
 
-//Q # 11
+// //Q # 12
 
- var num = 35.36;
- var num1 = num.
+// var num = 35.36;
+
+// var newNum = num.toString().replace('.','')
+// console.log(newNum);
+
+ 
+
+
+//Q # 14
+
+// var userInput = prompt("Enter Item Name");
+// var lowerAlpha = userInput.toLowerCase();
+// var arr = ["cake","apple pie","cookie","patties","chips"]
+// var toCheck = false;
+
+// for (i=0; i<arr.length; i++){
+//     if(lowerAlpha===arr[i]){
+//         toCheck = true
+//         //console.log("Item Found");
+//         document.write(`<h1> ${arr[i]}  is available at index No ${i}</h1>`);
+//     break;
+    
+
+//     }
+// }
+//     if(toCheck===false){
+//         document.write( `<h1> ${lowerAlpha}  in Not Available at our Bakery</h1>`);
+
+//     }
 
 
 
 
+// //Q # 16
 
+// var university = "University of Karachi"
+// var splitingStr =  university.split("");
 
+// for (i=0; i<splitingStr.length; i++){
+//     console.log(splitingStr[i]);
 
+// }
